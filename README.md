@@ -55,6 +55,37 @@ Software: Nikon Transfer 1.1 W
     Latitude: 43.467156...
     Longitude: 11.885394...
     Google Maps: [https://www.google.com/maps?q=43.467,11.885](https://www.google.com/maps?q=43.467,11.885)
+---
 
+## 👥 Authors & Contributors
 
-👥 Authors & ContributorsThis project is a collaborative effort.DeveloperRoleGitHubAsfaq Ovi🧠 Lead Logic & Scripting@asfaqovi[PARTNER NAME HERE]🧪 Testing & Documentation@PARTNER_USERNAME
+This project is a collaborative effort.
+
+| Developer | Role | GitHub |
+|-----------|------|--------|
+| **Asfaq Ovi** | 🧠 Lead Logic & Scripting | [@asfaqovi](https://github.com/asfaqovi) |
+| **[PARTNER NAME HERE]** | 🧪 Testing & Documentation | [@PARTNER_USERNAME](https://github.com/PARTNER_USERNAME) |
+
+*(To join the team: Edit this file, add your name to the table above, and commit the changes!)*
+
+---
+
+## 🤝 How to Contribute (The Easy Way)
+
+1.  Click the **Pencil Icon** ✏️ at the top right of this README file.
+2.  Scroll down to the **Authors** table.
+3.  Add your name, role, and GitHub profile link.
+4.  Scroll to the bottom and click **Commit changes**.
+5.  🎉 You are now an official contributor!
+
+---
+
+## ⚖️ Disclaimer
+
+*This tool is intended for educational purposes, security research, and authorized digital forensics investigations only. The authors are not responsible for any misuse of this software.*
+
+---
+
+<div align="center">
+	<sub>Built with 💀 and 🐍 by the Security Team</sub>
+</div>
