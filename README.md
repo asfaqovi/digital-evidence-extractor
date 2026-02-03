@@ -37,27 +37,3 @@
 
 ---
 
-## 🚀 Usage
-
-You can run the tool on any specific image file.
-
-**Basic Command:**
-```bash
-python inspector.py target_image.jpg
-Example Output:Plaintext[*] Analyzing: target_image.jpg
-------------------------------
-Make: NIKON
-Model: COOLPIX P6000
-DateTime: 2008:11:01 21:15:07
-Software: Nikon Transfer 1.1 W
-
-[+] GPS Data Found:
-    Latitude: 43.467156...
-    Longitude: 11.885394...
-    Google Maps: [https://www.google.com/maps?q=43.467,11.885](https://www.google.com/maps?q=43.467,11.885)
-👥 Authors & ContributorsThis project is a collaborative effort by:DeveloperRoleGitHubAsfaq Ovi🧠 Lead Logic & Scripting@asfaqovi[Partner Name]🧪 Testing & Research@partner_username⚖️ DisclaimerThis tool is intended for educational purposes, security research, and authorized digital forensics investigations only. The authors are not responsible for any misuse of this software.<div align="center"><sub>Built with 💀 and 🐍 by the Security Team</sub></div>
-### **How to Customize It:**
-
-1.  **Replace `[Partner Name]`** and `[partner_username]` with your friend's actual details.
-2.  **Replace `target_image.jpg`** with the actual name of your script/image if different.
-3.  **Check the URL:** In the "Clone" section, I used `asfaqovi/meta-hunter`. Ensure your r
