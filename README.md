@@ -56,3 +56,5 @@ Software: Nikon Transfer 1.1 W
     Longitude: 11.885394...
     Google Maps: [https://www.google.com/maps?q=43.467,11.885](https://www.google.com/maps?q=43.467,11.885)
 
+
+👥 Authors & ContributorsThis project is a collaborative effort.DeveloperRoleGitHubAsfaq Ovi🧠 Lead Logic & Scripting@asfaqovi[PARTNER NAME HERE]🧪 Testing & Documentation@PARTNER_USERNAME
