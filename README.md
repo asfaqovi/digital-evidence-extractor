@@ -45,7 +45,7 @@ This project is a collaborative effort.
 | Developer | Role | GitHub |
 |-----------|------|--------|
 | **Asfaq Ovi** | 🧠 Lead Logic & Scripting | [@asfaqovi](https://github.com/asfaqovi) |
-| **[PARTNER NAME HERE]** | 🧪 Testing & Documentation | [@PARTNER_USERNAME](https://github.com/PARTNER_USERNAME) |
+| **Shuvo Das** | 🧪 Testing & Documentation | [shuvodoes](https://github.com/shuvodoes) |
 
 *(To join the team: Edit this file, add your name to the table above, and commit the changes!)*
 
