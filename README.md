@@ -36,25 +36,6 @@
     ```
 
 ---
-## 🚀 Usage
-
-You can run the tool on any specific image file.
-
-**Basic Command:**
-```bash
-python inspector.py target_image.jpg
-
-[*] Analyzing: target_image.jpg
-------------------------------
-Make: NIKON
-Model: COOLPIX P6000
-DateTime: 2008:11:01 21:15:07
-Software: Nikon Transfer 1.1 W
-
-[+] GPS Data Found:
-    Latitude: 43.467156...
-    Longitude: 11.885394...
-    Google Maps: [https://www.google.com/maps?q=43.467,11.885](https://www.google.com/maps?q=43.467,11.885)
 ---
 
 ## 👥 Authors & Contributors
