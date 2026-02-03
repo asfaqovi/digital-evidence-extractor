@@ -36,4 +36,11 @@
     ```
 
 ---
+## 🚀 Usage
+
+You can run the tool on any specific image file.
+
+**Basic Command:**
+```bash
+python inspector.py target_image.jpg
 
