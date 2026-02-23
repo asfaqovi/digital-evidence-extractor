@@ -57,4 +57,5 @@ def extract_metadata(image_path):
 if __name__ == "__main__":
     # CHANGE THIS to the path of your image
     target_image = "test_image.jpg" 
-    extract_metadata(target_image)
+
+    extract_metadata(target_image) 
